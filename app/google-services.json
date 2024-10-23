@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397886163273",
+    "project_id": "classia-94153",
+    "storage_bucket": "classia-94153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397886163273:android:ab9943f5152ceef6bdf298",
+        "android_client_info": {
+          "package_name": "com.proyect.class1a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51PQAZ3QiyqSPm0XTJDV9ipDFgr224AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

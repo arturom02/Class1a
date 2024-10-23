@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Class1a</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="bienvenido_text">Bienvenido!</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="icon_description">Icono de la aplicación</string>
+</resources>
